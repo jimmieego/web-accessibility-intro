@@ -61,7 +61,8 @@ body {
 }
 
 .reveal p.centerp {
-  margin-left: 0;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 

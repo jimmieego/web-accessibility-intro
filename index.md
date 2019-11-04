@@ -47,9 +47,9 @@ Web accessibility means people with disabilities can:
 
 ---
 
-<h2 class="twocoltitle">WCAG</h2>
+## WCAG
 
-Web Content Accessibility Guidelines
+<p class="centerp">Web Content Accessibility Guidelines</p>
 
 ---
 
@@ -59,7 +59,7 @@ Web Content Accessibility Guidelines
 
 ---
 
-<h2 class="centertitle">Overview of WCAG 2.0</h2>
+## Overview of WCAG 2.0
 
 <p class="centerp">
     <img id="wcagoverview" src="images/wcag_overview.png" alt="Overview diagram of WCAG principles, success criteria, and levels">
@@ -69,7 +69,7 @@ Web Content Accessibility Guidelines
 
 ## Level of conformance
 
-- Level A: The minimum level of accessibility
+- Level A: The minimum level
 - Level AA: Generally recommended
 - Level AAA: Not required as general policy
 
@@ -97,7 +97,7 @@ Web Content Accessibility Guidelines
 ---
 
 <p class="centerp">
-    <a href="#">Demo: Focus and tab order</a>
+    <a href="https://developer.mozilla.org/en-US/">Demo: Focus and tab order on MDN web docs</a>
 </p>
 
 ---
