@@ -134,7 +134,7 @@ Web accessibility means people with disabilities can:
 ---
 
 <p class="centerp">
-    <a href="#">Demo: Color and color contrast</a>
+    <a href="https://jimmieego.github.io/Web-Accessibility-Best-Practices/demos/color-contrast/index.html">Demo: Color and color contrast</a>
 </p>
 
 ---
@@ -290,7 +290,7 @@ Most HTML elements have an implicit role that defines the element’s purpose:
 ---
 
 <p class="centerp">
-    <a href="#">Demo: Automated test using aXe</a>
+    <a href="https://aws.amazon.com/">Demo: Automated test using aXe</a>
 </p>
 
 ---
