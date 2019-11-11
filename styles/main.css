@@ -13,8 +13,10 @@
 
 .reveal ul,
 .reveal ol {
-  margin-left: 2em;
+  /* margin-left: 2em; */
   text-align: left;
+  /* width: 80%; */
+  line-height: 1.4;
 }
 
 /* Ensure certain elements are never larger than the slide itself */
@@ -29,7 +31,7 @@
 }
 
 .reveal p {
-  margin-left: 2em;
+  /* margin-left: 2em; */
   text-align: left;
 }
 
@@ -69,11 +71,6 @@ body {
 #wcagoverview {
   height: 80%;
   width: 80%;
-}
-
-.reveal section ul, .reveal section ol{
-  width: 80%;
-  line-height: 1.4;
 }
 
 .reveal section .twocol {
@@ -240,4 +237,10 @@ body {
     padding: 5px;
     overflow: auto;
     max-height: 400px;
-    word-wrap: normal; }  
+    word-wrap: normal; } 
+    
+  .reveal p,
+  .reveal li {
+    orphans: 3;
+    widows: 3;
+  }

@@ -4,13 +4,13 @@
     Tao Zhang
 </p>
 
-<p id="slidesInfo">Nov 1, 2019 · AWS Activate</p>
+<p id="slidesInfo">Nov 13, 2019 · AWS Activate</p>
 
 ---
 
 <h2 class="centertitle">What is accessibility?</h2>
 
-Make content usable for everyone regardless of abilities
+<p class="centerp">Make content usable for everyone regardless of abilities</p>
 
 ---
 
