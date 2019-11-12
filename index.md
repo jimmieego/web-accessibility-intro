@@ -4,7 +4,7 @@
     Tao Zhang
 </p>
 
-<p id="slidesInfo">Nov 13, 2019 · AWS Activate</p>
+<p id="slidesInfo">Nov 19, 2019 · AWS Activate</p>
 
 ---
 
