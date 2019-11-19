@@ -71,6 +71,11 @@ body {
   text-align: center;
 }
 
+.contactinfo {
+  font-size: 0.8em;
+  margin-top: 2em;
+}
+
 #wcagoverview {
   height: 80%;
   width: 80%;
