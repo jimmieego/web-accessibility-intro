@@ -97,22 +97,24 @@ Web accessibility means people with disabilities can:
 ---
 
 <p class="centerp">
-    <a href="https://developer.mozilla.org/en-US/">Demo: Focus and tab order on MDN web docs</a>
+    <!-- <a href="https://developer.mozilla.org/en-US/">Demo: Focus and tab order</a> -->
+    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus and tab order</a>
 </p>
 
 ---
 
 <p class="centerp">
-    <a href="images/modal_example.gif">Demo: Focus trap in dialog</a>
+    <!-- <a href="images/modal_example.gif">Demo: Focus trap in dialog</a> -->
+    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus trap in dialog</a>
 </p>
 
 ---
 
-<p class="centerp">
+<!-- <p class="centerp">
     <a href="https://arcgis103.esri.ca/WCAG-Configurable-Template-Test/?appid=e951691e3893444ea64e7c29d086e30c">Example: Accessible App of Electric Charging Stations</a>
 </p>
 
----
+--- -->
 
 ## Test focus and tab order
 
@@ -290,7 +292,8 @@ Most HTML elements have an implicit role that defines the element’s purpose:
 ---
 
 <p class="centerp">
-    <a href="https://aws.amazon.com/">Demo: Automated test using aXe</a>
+    <!-- <a href="https://aws.amazon.com/">Demo: Automated test using aXe</a> -->
+    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Automated test using aXe</a>
 </p>
 
 ---
