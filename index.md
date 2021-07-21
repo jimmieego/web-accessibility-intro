@@ -4,7 +4,7 @@
     Tao Zhang
 </p>
 
-<p id="slidesInfo">Nov 19, 2019 · AWS Activate</p>
+<p id="slidesInfo">July 30, 2021 · Code.AWS</p>
 
 ---
 
@@ -59,10 +59,8 @@ Web accessibility means people with disabilities can:
 
 ---
 
-## Overview of WCAG 2.0
-
 <p class="centerp">
-    <img id="wcagoverview" src="images/wcag_overview.png" alt="Overview diagram of WCAG principles, success criteria, and levels">
+    <img id="wcagoverview" src="images/WCAG-2-1-structure-light-mode.png" alt="Overview diagram of WCAG principles, success criteria, and levels">
 </p>
 
 ---
@@ -97,15 +95,15 @@ Web accessibility means people with disabilities can:
 ---
 
 <p class="centerp">
-    <!-- <a href="https://developer.mozilla.org/en-US/">Demo: Focus and tab order</a> -->
-    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus and tab order</a>
+    <a href="https://developer.mozilla.org/en-US/">Demo: Focus and tab order</a>
+    <!-- <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus and tab order</a> -->
 </p>
 
 ---
 
 <p class="centerp">
-    <!-- <a href="images/modal_example.gif">Demo: Focus trap in dialog</a> -->
-    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus trap in dialog</a>
+    <a href="images/modal_example.gif">Demo: Focus trap in dialog</a>
+    <!-- <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Focus trap in dialog</a> -->
 </p>
 
 ---
