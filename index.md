@@ -17,7 +17,7 @@
 Web accessibility means people with disabilities can:
 
 - **Use** the web
-- **Perceive**,**understand**,**navigate**,and **interact** with the web
+- **Perceive**, **understand**, **navigate**, and **interact** with the web
 - **Contribute** to the web
 
 ---
@@ -215,7 +215,7 @@ Choose the right HTML element to reflect content structure and meaning.
 <h2>User settings</h2>
 
 <!-- Don't do this -->
-<span class="heading-2">Popup settings</span> 
+<span class="heading-2">Popup settings</span>
 ```
 
 - The browser does not recognize the second structure as a level 2 heading.
@@ -290,8 +290,8 @@ Most HTML elements have an implicit role that defines the element’s purpose:
 ---
 
 <p class="centerp">
-    <!-- <a href="https://aws.amazon.com/">Demo: Automated test using aXe</a> -->
-    <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Automated test using aXe</a>
+    <a href="https://polaris.a2z.com/">Demo: Automated test using aXe</a>
+    <!-- <a href="https://us-west-2.console.aws.amazon.com/activate/home?#/apply">Demo: Automated test using aXe</a> -->
 </p>
 
 ---
@@ -306,11 +306,11 @@ Most HTML elements have an implicit role that defines the element’s purpose:
 
 <h2 class="centertitle">Screen reader</h2>
 
-| OS      | Screen reader | Browser |
-|---------|---------------|---------|
+| OS      | Screen reader                                                    | Browser |
+| ------- | ---------------------------------------------------------------- | ------- |
 | MacOS   | [VoiceOver](https://www.apple.com/accessibility/mac/vision/)     | Safari  |
-| Windows | [NVDA](https://www.nvaccess.org/)          | Firefox |
-| Windows | [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS)          | IE/Edge |
+| Windows | [NVDA](https://www.nvaccess.org/)                                | Firefox |
+| Windows | [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) | IE/Edge |
 
 ---
 
@@ -330,8 +330,8 @@ Most HTML elements have an implicit role that defines the element’s purpose:
 
 ## Additional resources
 
+- [Wiki: Amazon Accessibility](https://w.amazon.com/bin/view/Accessibility/)
 - [MDN: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-- [Google Developers Web Fundamentals: Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
 - [The A11Y Project](https://a11yproject.com/)
 
 ---
